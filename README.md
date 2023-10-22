@@ -1,4 +1,5 @@
-# REACT- JS BLUSTER SERIES 
+# REACT- JS BLUSTER SERIES
+🚀
 
 # 1) Corona Tracker
 
