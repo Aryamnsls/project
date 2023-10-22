@@ -1,7 +1,8 @@
-# Project 1:-  Responsive Login SignIn SignUp web page
-To create a responsive login/sign-in/sign-up form using HTML, CSS (SCSS), and JavaScript:
+# REACT- JS BLUSTER SERIES 
 
-#  Project 2:- Contact-Manager
+# 1) Corona Tracker
 
-#  Project 3:- Todo-List 
+# 2) AI- News
+
+# 3) Crypto Tracker
 
